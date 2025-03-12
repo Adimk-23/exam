@@ -1,4 +1,4 @@
-class Java:
+class Java
 {
   public static void main(string [] args):
   {
